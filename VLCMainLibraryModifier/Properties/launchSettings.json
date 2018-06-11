@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VLCMainLibraryModifier": {
+      "commandName": "Project",
+      "commandLineArgs": "-v"
+    }
+  }
+}
