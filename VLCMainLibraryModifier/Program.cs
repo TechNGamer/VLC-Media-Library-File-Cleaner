@@ -11,7 +11,7 @@ namespace VLCMainLibraryModifier {
 		private static bool verbose; // Verbose will print things to the console.
 
 		public static void Main( string[] args ) {
-			string[] lines;
+			string[] lines = null;
 
 			CheckArgs( args );
 			GetMediaLibraryFile();
